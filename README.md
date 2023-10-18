@@ -19,8 +19,7 @@ This project is a real-time P2P video call application that utilizes WebRTC and 
 ## Features
 - User-friendly interface
 - Real-time video calls
-- Secure user authentication and room creation
-- Easily extendable and customizable
+
 
 ## Getting Started
 ### Prerequisites
